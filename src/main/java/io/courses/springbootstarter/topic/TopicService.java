@@ -1,4 +1,4 @@
-package io.javabrains.springbootstarter.topic;
+package io.courses.springbootstarter.topic;
 
 
 import org.springframework.stereotype.Service;
