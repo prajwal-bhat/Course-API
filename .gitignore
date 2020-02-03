@@ -32,3 +32,5 @@ out/
 .vscode/
 ### LOG_PATH###
 LOG_PATH_IS_UNDEFINED/
+
+derby
