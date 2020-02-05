@@ -34,3 +34,4 @@ out/
 LOG_PATH_IS_UNDEFINED/
 
 derby
+derby.log
